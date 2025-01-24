@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Retraayone
 - 👀 I’m a CS student
 - 🌱 I’m currently learning Python
-- 📫 How to reach me on instagram @retraayone
+- 📫 Instagram: @retraayone
 - 😄 Pronouns: He/Him
 
 
