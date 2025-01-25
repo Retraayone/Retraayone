@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Retraayone&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jfqk5p223golwzm7qmdmtpfvda)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jfqk5p223golwzm7qmdmtpfvda&count={count})
 
 
 
