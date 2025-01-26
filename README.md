@@ -1,5 +1,5 @@
 # 💫 About Me:
-19<br>CS student<br>currently learning Python
+19<br>CS student<br>
 
 
 ## 🌐 Socials:
