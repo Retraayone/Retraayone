@@ -15,6 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Retraayone&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jfqk5p223golwzm7qmdmtpfvda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
