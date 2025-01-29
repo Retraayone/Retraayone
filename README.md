@@ -1,5 +1,5 @@
 # 💫 About Me:
-19<br>CS student<br>
+19<br>LOOOKING FOR JOBS AND INTERNSSSSSSS<br>
 
 
 ## 🌐 Socials:
